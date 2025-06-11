@@ -3,7 +3,7 @@ public class H1{
     public static void main(String[] args) {
         int r = 7;
 
-        double area = Math.PI * r * r;
+        double area = Math.PI * Math.pow(r,2);
         double circumference = 2*Math.PI*r;
 
         System.out.println("Area of circle : "+area);

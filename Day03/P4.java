@@ -25,8 +25,6 @@ public class P4 {
         }
         else{
             System.out.println(Math.pow(sum, 2));
-        }
-
-        
+        }   
     }
 }
